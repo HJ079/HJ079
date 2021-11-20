@@ -1,1 +1,1 @@
-안녕하세요 현재 Python을 공부 중인 HJ079입니다.
+-Hello, I am HJ079, currently studying Python.
