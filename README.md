@@ -1,1 +1,1 @@
--Hello, I am HJ079, currently studying Python.
+- Hello, I am HJ079, currently studying Python.
